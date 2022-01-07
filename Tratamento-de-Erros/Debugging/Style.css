@@ -1,0 +1,5 @@
+body{
+    font-family: Arial;
+}
+
+/*Através da interface de desenvolvedor do browser também é possível inspecionar os elementos da nossa página, verificar o CSS (através das abas "styles", e "computed"), modificá-lo em tempo real e salvá-lo. Se um estilo for aplicado com um erro, é colocado um estilo padrão no carregamento*/
